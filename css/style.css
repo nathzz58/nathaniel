@@ -1,0 +1,23 @@
+#home{
+
+}
+.container{
+padding-left: 100px;
+padding-right: 100px;
+}
+.title{
+  padding-top: 250px;
+  padding-bottom: 300px;
+  color: #fff;
+}
+.logo {
+  width: 30%;
+}
+.title h1{
+  color: #fff;
+
+}
+#footer{
+  color: #fff;
+  text-align: center;
+}
